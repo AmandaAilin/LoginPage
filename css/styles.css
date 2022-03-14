@@ -1,5 +1,5 @@
 body {
-background-color: rgb(34, 34, 34);
+background-color: #795548;
 color: white;
 font-family: poppinsregular;
 max-width: 1200px;
@@ -55,8 +55,8 @@ margin-top: 50px;
 }
 
 .container{
-    width: 320px;
-    height: 205px;
+    width: 350px;
+    height: 200px;
 }
 
 h2{
@@ -65,7 +65,7 @@ h2{
     font-family: ppoppinsmedium;
 }
 span{
-    color: rgb(132, 14, 201);
+    color: white;
 }
 
 p{
@@ -75,7 +75,8 @@ p{
 }
 
 img{
-    width: 580px;
+    width: 500px;
+    padding-left: 150px;
 }
 
 form{
